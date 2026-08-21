@@ -1,0 +1,12 @@
+{
+  "game": "Zombie Survival",
+  "channel": "stable",
+  "latest_version": "1.0.0",
+  "minimum_version": "1.0.0",
+  "mandatory": false,
+  "android_download": "",
+  "windows_download": "",
+  "changes": [
+    "Initial public update-server setup"
+  ]
+}
